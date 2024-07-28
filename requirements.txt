@@ -1,0 +1,5 @@
+altair
+pyomo
+pytessract
+google-generativeai
+python-dotenv
